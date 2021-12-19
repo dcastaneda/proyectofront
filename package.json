@@ -27,9 +27,9 @@
     "postcss": "^7"
   },
   "scripts": {
-    "start": "craco start",
-    "build": "craco build",
-    "test": "craco test",
+    "start": "yarn start",
+    "build": "yarn build",
+    "test": "yarn test",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
